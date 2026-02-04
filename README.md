@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Nightwatch · Shandong Sky Projects
 
 这里是一些与山东夜空观测相关的小项目集合。
