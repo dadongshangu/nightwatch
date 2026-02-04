@@ -1,0 +1,4 @@
+# GitHub Pages 使用 Jekyll 构建；自定义 default 布局以注入 Mermaid 渲染
+theme: jekyll-theme-minimal
+title: Nightwatch
+description: 山东夜空观测 · 观星指南
